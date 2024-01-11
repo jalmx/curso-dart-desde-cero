@@ -1,24 +1,26 @@
-site_name: Curso Dart & Flutter 
+site_name: Curso Dart & Flutter
 
 theme:
   name: material
-  palette: 
+  locale: es
+  palette:
     # Palette toggle for light mode
     - scheme: default
       primary: light blue
       accent: deep orange
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
       primary: light blue
-      accent: deep orange    
+      accent: deep orange
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - navigation.footer
     - search.suggest
     - search.highlight
     - search.share
@@ -26,7 +28,7 @@ theme:
     - navigation.instant
     - navigation.sections
     - navigation.expand
-    - navigation.indexes 
+    - navigation.indexes
     - navigation.instant.prefetch
     - navigation.tracking
     - navigation.path
@@ -37,10 +39,15 @@ repo_url: https://github.com/jalmx/curso-dart-flutter
 markdown_extensions:
   - abbr
   - admonition
+  - meta
   - attr_list
   - md_in_html
+  - footnotes
   - tables
   - pymdownx.critic
+  - pymdownx.details
+  - footnotes
+  - admonition
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
@@ -57,13 +64,17 @@ markdown_extensions:
 
 plugins:
   - search
+    #   lang: es
+    #   indexing: 'full'
+#   - minify:
+#       minify_html: true
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - javascripts/katex.js 
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - javascripts/katex.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 extra_css:

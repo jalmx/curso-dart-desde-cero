@@ -11,8 +11,9 @@ Sumérgete en el maravilloso mundo de Flutter, el marco de trabajo de código ab
       1. Variables y tipos de datos.
       2. Estructuras de control: if, if-else.
       3. Bucles: for, while.
-3. **Listas, Mapas y Conjuntos**
-       1. Métodos y operaciones comunes de colecciones.
+3. **Colecciones**
+       1. Listas, Mapas y Set
+          1. Métodos y operaciones comunes de colecciones.
 4. **Funciones en Dart**
       1. Declaración de funciones
       2. Parámetros y valores de retorno

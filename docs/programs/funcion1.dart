@@ -40,6 +40,11 @@ void mensaje10(String nombre, int edad) {
   print("Hola $nombre,la edad que tendrás en 10 años es $edadNueva");
 }
 
+/*
+Esta función recibe 2 argumentos de tipo double, vamos a sumar estos parámetros y
+devolvemos este resultado
+*/
+
 double suma(double numero1, double numero2) {
   double resultado = numero1 + numero2;
   return resultado;

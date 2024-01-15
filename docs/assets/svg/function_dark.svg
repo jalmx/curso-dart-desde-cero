@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2284.3149"
+   height="419.01801"
+   viewBox="0 0 604.39167 110.86519"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="function_dark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.47728368"
+     inkscape:cx="987.8821"
+     inkscape:cy="270.27951"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3562"
+     units="px"
+     width="2117.8635px"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker22482"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path22224" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect22214"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1915" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1812"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1808"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1804"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1800"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1796"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1915-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       viewBox="0 0 17.773854 10.156488"
+       markerWidth="17.773853"
+       markerHeight="10.156487"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1915-7" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1800-0"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-2-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       viewBox="0 0 17.773854 10.156488"
+       markerWidth="17.773853"
+       markerHeight="10.156487"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1915-7-7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(68.008096,-122.57215)">
+    <g
+       id="g3562"
+       transform="translate(13.229175,13.229167)">
+      <rect
+         style="fill:#89b1b7;stroke-width:0.377555;fill-opacity:1"
+         id="rect1"
+         width="604.39172"
+         height="110.8652"
+         x="-81.237274"
+         y="109.34298" />
+      <rect
+         style="fill:#a02c2c;stroke:none;stroke-width:0.714088"
+         id="rect2"
+         width="165.6965"
+         height="83.692795"
+         x="-67.651115"
+         y="122.92918" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.5222px;line-height:1.25;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.388686"
+         x="-59.441513"
+         y="170.36357"
+         id="text759-1"><tspan
+           sodipodi:role="line"
+           id="tspan757-2"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.5222px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e3dbdb;stroke:none;stroke-width:0.388686"
+           x="-59.441513"
+           y="170.36357">Entrada de datos</tspan></text>
+      <path
+         style="fill:#aa0000;stroke:#1a1a1a;stroke-width:1.32292;stroke-dasharray:none;marker-end:url(#Arrow1Lend-2-4)"
+         d="m 302.24503,164.77557 h 39.37641"
+         id="path6-6" />
+      <path
+         style="fill:#aa0000;stroke:#1a1a1a;stroke-width:1.32292;stroke-dasharray:none;marker-end:url(#Arrow1Lend-2)"
+         d="M 95.410724,164.77557 H 134.78712"
+         id="path6" />
+      <rect
+         style="fill:#005500;stroke:none;stroke-width:0.714088"
+         id="rect2-6-5"
+         width="165.6965"
+         height="83.692795"
+         x="343.87177"
+         y="122.92918" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.5222px;line-height:1.25;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#afc6e9;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="356.9632"
+         y="170.74387"
+         id="text759-1-3"><tspan
+           sodipodi:role="line"
+           id="tspan757-2-6"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.5222px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#afc6e9;stroke:none;stroke-width:0.264583"
+           x="356.9632"
+           y="170.74387">Salida de datos</tspan></text>
+      <rect
+         style="fill:#806600;stroke:none;stroke-width:0.714088"
+         id="rect2-6"
+         width="165.6965"
+         height="83.692795"
+         x="138.11032"
+         y="122.92918" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.5222px;line-height:1.25;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="188.32314"
+         y="170.79044"
+         id="text759-7"><tspan
+           sodipodi:role="line"
+           id="tspan757-0"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.5222px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="188.32314"
+           y="170.79044">Función</tspan></text>
+    </g>
+  </g>
+</svg>

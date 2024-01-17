@@ -22,16 +22,15 @@ Sumérgete en el maravilloso mundo de Flutter, el marco de trabajo de código ab
        1. Clases y objetos.
        2. Herencia
        3. Polimorfismo
-       4. Uso de modificadores de acceso (public, private, protected)
+       4. Uso de modificadores de acceso (public, private)
        5. Paquetes y bibliotecas en Dart
        6. Manejo de Excepciones
        7. Try, catch, finally.
-6. **Iteradores y Streams**
-       1. Uso de forEach, map, filter, etc.
-       2. Streams y manejo asíncrono.
+6. **Programación asíncrona**
+       1. then
+       2. Future
 7. **Acceso a Datos Remotos**
        1. Uso de APIs REST con Dart.
-       2. Manejo de respuestas asíncronas.
 8. **Introducción a Flutter**
        1. ¿Qué es Flutter?
        2. Ventajas de Flutter

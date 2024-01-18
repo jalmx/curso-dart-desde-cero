@@ -1,3 +1,6 @@
+
+import 'clase5.dart';
+
 class Persona {
   late final String _nombre;
   late final int _edad;
@@ -15,4 +18,5 @@ class Persona {
 void main(List<String> args) {
   final Persona persona = Persona("Carlos", edad: 10);
   print("${persona.nombre} tiene ${persona.edad} primaveras");
+  Auto a = Auto("nombre", 3, modelo: 2343);
 }

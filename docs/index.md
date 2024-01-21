@@ -20,38 +20,11 @@ Curso de Dart desde cero
       3. Funciones anónimas y funciones de flecha
 5. **Conceptos Básicos de POO**
       1. Clases y objetos.
-      <!-- 2. Herencia -->
-      <!-- 3. Polimorfismo -->
-      4. Uso de modificadores de acceso (public, private)
-      5. Paquetes y bibliotecas en Dart
-      6. Manejo de Excepciones
+      2. Uso de modificadores de acceso (public, private)
+      3. Paquetes y bibliotecas en Dart
+      4. Manejo de Excepciones
          1. Try, catch.
 6. **Programación asíncrona**
       1. then
       2. Future
-<!-- 7. **Acceso a Datos Remotos**
-      1. Uso de APIs REST con Dart.
-1. **Introducción a Flutter**
-      1. ¿Qué es Flutter?
-      2. Ventajas de Flutter
-      3. Estructura de un proyecto Flutter
-2. **Widgets en Flutter**
-      1. Concepto de widget
-      2. Tipos de widgets (StatelessWidget, StatefulWidget)
-      3. Creación y personalización de widgets
-3.  **Navegación y rutas en Flutter**
-      1. Navegación entre pantallas
-      2. Paso de datos entre pantallas
-4.  **Gestión de estado en Flutter**
-       1. Manejo del estado local
-       2. Manejo del estado global (Provider, Bloc)
-5.  **Acceso a servicios y APIs**
-       1. Consumo de APIs REST en Flutter
-       2. Uso de paquetes y dependencias externas
-6.  **Persistencia de datos**
-       1. Almacenamiento local en Flutter
-       2. Uso de bases de datos (SQLite, Firebase) -->
-7.  **Proyecto Final**
-<!-- 15. **Despliegue de la aplicación** -->
-
-<!-- TODO: revisar para consulta https://github.com/alxgcrz/_learning_dart_ -->
+7. **Proyecto Final**

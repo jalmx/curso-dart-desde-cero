@@ -1,0 +1,7 @@
+{
+    "directories": [".", "C:\\Users\\usuario\\Documents\\curso\\Ordenador\\cleaner\\sandbox"],
+    "exclude": {
+        "directories": [],
+        "ext":[]
+    }
+}

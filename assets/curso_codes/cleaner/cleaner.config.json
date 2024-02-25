@@ -1,0 +1,10 @@
+{
+	"directories": [
+		"/home/xizuth/Projects/curso_flutter/docs/assets/curso_codes/cleaner/sandbox/sandbox1",
+		"/home/xizuth/Projects/curso_flutter/docs/"
+	],
+	"exclude": {
+		"directories": [],
+		"ext": []
+	}
+}

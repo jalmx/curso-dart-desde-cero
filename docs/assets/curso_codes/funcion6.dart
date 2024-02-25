@@ -15,12 +15,14 @@ main(List<String> args) {
   Function m = mensaje;
   print(m());
 
-  var lista = ["coba", "mitz", "fidel", "ethan"];
-    // crear una lista de enteros, de 6 valores e imprimir con un callback
-    // y imprimir el cuadrado de cada numero
-  lista.forEach((element) { //funcion anonima
-    print("Hola $element, todo un programador");
-   });
-                   //funcion flecha       
-  lista.forEach( (e) =>print("Hola $e, todo un programador") );
+  var lista = ["lua", "dart", "js", "java", "python"];
+
+  lista.forEach((lenguaje) {
+    //funcion anónima
+    print("Es un lenguaje de programación $lenguaje");
+    print("=========================================");
+  });
+
+  //funcion flecha
+  lista.forEach((e) => print("Es un lenguaje de programación $e"));
 }
